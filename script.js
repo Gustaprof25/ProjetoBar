@@ -3,7 +3,7 @@
 					var valorItem = 0;
 				}else{
 					var qnt = document.querySelector("input[type=number]").value;
-					var mult = parseInt(document.querySelector("td[class=valorbtt]").value);
+					var mult = parseInt(document.querySelector("td[class=valorbtt]").content);
 					var valorItem = qnt * mult
 				}	
 			
