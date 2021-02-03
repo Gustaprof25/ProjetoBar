@@ -8,4 +8,5 @@
 					var valorItem = qnt * mult
 				}	
 			}
+			alert(valorItem);
 		}
